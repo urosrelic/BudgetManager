@@ -1,0 +1,23 @@
+785.64
+90.71000000000001
+41.58
+48.83
+33.239999999999995
+214.36
+4,Sensodyne Pronamel Toothpaste,19.74
+4,Chick-fil-A $10 Gift Card,10.0
+4,Debt,3.5
+2,Gildan LT,8.61
+2,Men's Dual Defense Crew Socks 12 Pairs,13.0
+2,Wrangler Men's Stretch Cargo Pant,19.97
+3,LEGO DUPLO Town Farm Animals,10.1
+3,Cinema,8.73
+3,Skate rental,30.0
+1,Almond 250g,35.43
+1,Milk,3.5
+1,Red Fuji Apple,5.99
+1,Eggs,3.99
+1,FIJI Natural Artesian Water,25.98
+1,Hershey's milk chocolate bars,8.54
+1,Great Value Broccoli Florets,1.0
+1,Keystone Ground Bee,6.28
